@@ -1,0 +1,5 @@
+label	files	condition
+KO1	1_RNA-EEDko-AdultCM_Rep1.counts	KO
+KO2	1_RNA-EEDko-AdultCM_Rep2.counts	KO
+WT1	1_RNA-WT-AdultCM_Rep1.counts	WT
+WT2	1_RNA-WT-AdultCM_Rep2.counts	WT
